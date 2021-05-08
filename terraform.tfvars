@@ -1,0 +1,8 @@
+name  = "redis-instace"
+project = "searce-playground"
+tier    = "BASIC"
+size    = "1"
+region  = "us-east4"
+authorized_network = "vpc-us-east-4-01"
+redis_version   = "REDIS_4_0"
+display_name    = "knolsakpe redis instance"
